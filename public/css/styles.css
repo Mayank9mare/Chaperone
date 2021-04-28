@@ -71,6 +71,10 @@ body {
 .ghost{
   opacity: 0.0;
 }
+.comment-text{
+  color:aquamarine;
+  font-size:15px;
+}
 
 /*
 
